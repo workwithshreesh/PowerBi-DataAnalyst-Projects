@@ -45,3 +45,10 @@ This project visualizes the HR analytics data to provide insights into employee 
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
+
+___
+
+Enjoy exploring the Power BI Sales Insights and Forecasting Dashboard! If you have questions or feedback, feel free to contact me.
+
+Contact: shreesht0@gmail.com
+
