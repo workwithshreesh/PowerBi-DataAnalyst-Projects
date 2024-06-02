@@ -34,3 +34,10 @@ This project visualizes the spending habits of credit card users in India using 
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/workwithshreesh/PowerBi-DataAnalyst-Projects
+
+
+___
+
+Enjoy exploring the Power BI Insights and Dashboard! If you have questions or feedback, feel free to contact me.
+
+Contact: shreesht366@gmail.com
