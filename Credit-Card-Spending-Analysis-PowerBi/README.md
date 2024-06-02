@@ -1,6 +1,6 @@
 # Credit Card Spending Habits in India
+![Credit Card Spending Analysis](https://github.com/workwithshreesh/PowerBi-DataAnalyst-Projects/assets/117170243/d9feec26-bd4c-441e-92e8-cb95243f3d07)
 
-![Credit Card Spending Analysis](path/to/Credit%20Card%20Spending%20Analysis.png)
 
 ## Overview
 This project visualizes the spending habits of credit card users in India using a comprehensive dashboard. The dashboard provides insights into transaction amounts by gender, card type, expense type, month, and city.
