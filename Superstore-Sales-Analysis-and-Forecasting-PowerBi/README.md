@@ -1,5 +1,8 @@
 # Superstore Sales Analysis and Forecasting
 
+![dashboard](https://github.com/workwithshreesh/PowerBi-DataAnalyst-Projects/assets/117170243/d954a976-f3e2-4995-8114-e6654ea65c02)
+
+
 ![sales-forcasting](https://github.com/workwithshreesh/PowerBi-DataAnalyst-Projects/assets/117170243/7aaa6884-8dca-4cc9-9908-4fda97043bf2)
 
 ## Introduction
