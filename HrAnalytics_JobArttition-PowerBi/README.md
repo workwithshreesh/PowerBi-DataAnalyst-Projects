@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![HR Analytics Dashboard](path/to/Screenshot%202024-05-17%20020138.png)
+<img width="802" alt="Screenshot 2024-05-17 020138" src="https://github.com/workwithshreesh/PowerBi-DataAnalyst-Projects/assets/117170243/edd1b78f-a173-42f3-834a-33b416d03049">
 
 ## Overview
 This project visualizes the HR analytics data to provide insights into employee attrition. The dashboard helps identify trends and patterns in employee turnover based on various factors such as age, gender, education, salary, years at the company, and job roles.
