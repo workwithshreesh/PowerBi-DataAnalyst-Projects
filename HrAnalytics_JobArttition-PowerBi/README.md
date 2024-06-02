@@ -48,7 +48,7 @@ This project visualizes the HR analytics data to provide insights into employee 
 
 ___
 
-Enjoy exploring the Power BI Sales Insights and Forecasting Dashboard! If you have questions or feedback, feel free to contact me.
+Enjoy exploring the Power BI Insights and Dashboard! If you have questions or feedback, feel free to contact me.
 
-Contact: shreesht0@gmail.com
+Contact: shreesht366@gmail.com
 
