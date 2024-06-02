@@ -1,0 +1,65 @@
+Sure, here is a set of company-level questions based on the provided dashboard image, focusing on various analytical aspects of credit card spending habits in India. These questions can help in understanding trends, making decisions, and planning strategies.
+
+### General Analysis
+1. **Overall Spending Trends:**
+   - What are the total transaction amounts for each year (2013, 2014, 2015)?
+   - How do the overall spending habits change from year to year?
+
+2. **Gender-Based Analysis:**
+   - What is the total transaction amount for female and male cardholders?
+   - Which gender spends more on average, and by how much?
+
+3. **Card Type Analysis:**
+   - What is the distribution of transaction amounts across different card types (Gold, Platinum, Signature, Silver)?
+   - Which card type has the highest transaction amount?
+
+4. **Expense Type Analysis:**
+   - What are the top three expense categories by transaction amount?
+   - How much do cardholders spend on average in each expense category (Bills, Fuel, Entertainment, Food, Grocery, Travel)?
+
+### Monthly Trends
+5. **Monthly Spending Trends:**
+   - What are the monthly transaction amounts, and how do they vary throughout the year?
+   - Are there any noticeable peaks or troughs in spending across the months?
+
+6. **Monthly Gender Analysis:**
+   - How do monthly transaction amounts differ between female and male cardholders?
+   - Which months show the highest and lowest spending for each gender?
+
+### Detailed Expense Analysis
+7. **Expense Type by Gender:**
+   - How do spending patterns differ by gender for each expense type?
+   - Which expense categories do female cardholders spend the most on compared to male cardholders, and vice versa?
+
+### Geographic Analysis
+8. **City-Based Spending Analysis:**
+   - What are the total transaction amounts for the top 5 cities (Greater Mumbai, Bengaluru, Ahmedabad, Delhi, Kolkata)?
+   - Which city has the highest transaction amount?
+
+9. **City Expense Type Analysis:**
+   - How do spending patterns differ across the top 5 cities for each expense type?
+   - Which city has the highest spending on specific categories like Bills, Food, or Entertainment?
+
+### Strategic Planning
+10. **Promotional Strategies:**
+    - Based on the spending patterns, which months or periods should be targeted for promotional campaigns to boost spending?
+    - Which expense categories could benefit from targeted promotions for specific genders or cities?
+
+11. **Card Type Marketing:**
+    - Which card type should be marketed more aggressively based on its spending patterns and growth potential?
+    - Are there any specific expense categories that show higher spending with particular card types?
+
+12. **Customer Segmentation:**
+    - How can customers be segmented based on their spending habits, and what targeted offers can be designed for each segment?
+    - What insights can be drawn about high-spending customers that can help in designing loyalty programs?
+
+### Performance Evaluation
+13. **Performance Over Time:**
+    - How has the performance of different card types and expense categories changed over the years?
+    - What long-term trends can be identified, and how can these trends inform future business strategies?
+
+14. **Impact of External Factors:**
+    - Are there any external factors (e.g., economic changes, policy updates) that could have influenced the spending patterns observed in the data?
+    - How can the company prepare for such influences in the future?
+
+These questions are designed to leverage the insights provided by the dashboard for strategic decision-making and performance evaluation at a company level.
