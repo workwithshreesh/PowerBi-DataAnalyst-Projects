@@ -1,43 +1,47 @@
-<img width="934" alt="Dashboard" src="https://github.com/workwithshreesh/Excel-DataAnalyst-Projects/assets/117170243/637401c2-019c-4b95-9483-e479129bfd28">
+# HR Analytics Dashboard
 
-# Excel Data Analyst Project: Dynamic Dashboard for Coffee Shop Sales Analysis
+![HR Analytics Dashboard](path/to/Screenshot%202024-05-17%20020138.png)
 
-## Project Overview
+## Overview
+This project visualizes the HR analytics data to provide insights into employee attrition. The dashboard helps identify trends and patterns in employee turnover based on various factors such as age, gender, education, salary, years at the company, and job roles.
 
-Welcome to the Excel Data Analyst Project aimed at analyzing retail sales data from a coffee shop to derive actionable insights that enhance performance.
+## Dashboard Components
 
-## Project Highlights
+1. **Key Metrics**
+   - **Count of Employees**: 1413
+   - **Attrition**: 227 employees
+   - **Attrition Rate**: 16.1%
+   - **Average Age**: 37 years
+   - **Average Salary**: 7K
+   - **Average Years at Company**: 7.1 years
 
-- **Objective**: Analyze retail sales data to enhance the performance of the Coffee Shop.
-- **Dynamic Dashboards**: Interactive dashboards for exploring sales data and deriving insights.
-- **Actionable Insights**: Use insights to optimize sales strategies and improve business performance.
+2. **Attrition by Education**
+   - Pie chart showing the distribution of attrition based on educational qualifications.
+   - Categories include various levels of education with their respective percentage and count.
 
-## Recommended Analysis
+3. **Attrition by Age**
+   - Bar chart representing the number of employees leaving the company based on different age groups.
+   - Age groups include 18-25, 26-35, 36-45, 46-55, and 55+.
 
-- **Sales by Day and Hour**: Explore sales variation by day of the week and hour of the day to identify peak times for sales activity.
-- **Monthly Sales Revenue**: Determine total sales revenue for each month.
-- **Sales by Store Location**: Analyze sales variation across different store locations.
-- **Average Price per Order**: Calculate the average price per order to understand spending habits.
-- **Best-Selling Products**: Identify top-selling products in terms of quantity and revenue.
-- **Sales by Product Category**: Analyze sales variation by product category and type.
+4. **Attrition by Gender**
+   - Bar chart showing the attrition count differentiated by gender (Male and Female).
 
-## Contents
+5. **Attrition by Salary Slab**
+   - Horizontal bar chart illustrating the number of employees leaving the company within different salary ranges.
+   - Salary ranges include up to 5k, 5k-10k, 10k-15k, and 15k+.
 
-1. `Data/`: Contains the raw data files used for the analysis.
-2. `Dashboards/`: Includes Excel files with dynamic dashboards for sales analysis.
-3. `README.md`: You are currently reading this file.
+6. **Attrition by Years at Company**
+   - Line chart depicting the attrition trend based on the number of years employees have spent at the company.
+   - It shows how attrition varies with tenure.
 
-## Usage
+7. **Attrition by Job Role**
+   - Horizontal bar chart showing the number of employees leaving the company from different job roles.
+   - Includes roles such as Laboratory Technician, Sales Executive, Research Scientist, Sales Representative, etc.
 
-To explore the dynamic dashboards and replicate the analysis:
+8. **Attrition Details by Job Role**
+   - Table showing the attrition count for each job role across different years (1-5 years).
 
-1. Download or clone the repository to your local machine.
-2. Navigate to the `Dashboards/` folder and open the Excel files using Microsoft Excel.
-3. Interact with the dashboards to explore different aspects of coffee shop sales analysis.
-4. Gain insights into sales trends, customer behavior, and regional sales distribution.
-
-## Conclusion
-
-The dynamic dashboards provide actionable insights into coffee shop sales data, helping optimize sales strategies and improve business performance.
-
-For any inquiries or collaborations, please contact [Shreesh Tiwari](mailto:shreesht366@.com).
+## How to Use
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
